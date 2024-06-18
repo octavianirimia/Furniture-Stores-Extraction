@@ -1,0 +1,72 @@
+sofa
+sofas
+loveseat
+loveseats
+armchair
+armchairs
+coffee table
+coffee tables
+end table
+end tables
+console table
+console tables
+tv stand
+tv stands
+bookcase
+bookcases
+entertainment center
+entertainment centers
+bed
+beds
+mattress
+mattresses
+dresser
+dressers
+chest of drawers
+chests of drawers
+nightstand
+nightstands
+armoire
+armoires
+headboard
+headboards
+vanity
+vanities
+dining table
+dining tables
+chair
+chairs
+bar stool
+bar stools
+buffet
+buffets
+china cabinet
+china cabinets
+table
+tables
+chair
+chairs
+bar stool
+bar stools
+island
+islands
+cabinet
+cabinets
+desk
+desks
+chair
+chairs
+bookcase
+bookcases
+file cabinet
+file cabinets
+bench
+benches
+ottoman
+ottomans
+rug
+rugs
+lamp
+lamps
+couch
+couches
